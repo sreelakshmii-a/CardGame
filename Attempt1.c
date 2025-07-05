@@ -82,7 +82,7 @@ void main(){
         PileSelect(A, P, Q, R, n);
     }
   printf("\n\n");
-
+  
   printf("%s!!!\n",A[10]);
   
 
